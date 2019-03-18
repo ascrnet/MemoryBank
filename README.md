@@ -1,2 +1,2 @@
-# memorybank
-Reconocedor de Bancos de Memoria Atari XL-XE
+# Memory Bank
+Reconocedor de Bancos de Memoria para Atari XL-XE, por DOGDARK
